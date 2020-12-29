@@ -7,11 +7,6 @@ This is my working EFI for Catalina 10.15.5 -- 11.1 BigSur running Opencore. Har
 * 1x500gb NVME ssd
 * 1x500gb 3D Sata ssd
 
-Please note that 2 areas under my config.plist have been modified:
-
-* PlatformInfo
-  * Generic
-  * PlatformNVRAM
   
 Basic steps of the hack found here: https://dortania.github.io/OpenCore-Desktop-Guide/ 
   
