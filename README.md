@@ -1,5 +1,5 @@
-# macOS-10.15.5-OpenCore-z370-IGPU
-This is my working EFI for Catalina 10.15.5 running Opencore. Hardware consists of: 
+# BigSur 11.1 OpenCore 0.6.4
+This is my working EFI for Catalina 10.15.5 -- 11.1 BigSur running Opencore. Hardware consists of: 
 * Gigabyte z390 Gaming X
 * 16GB GSkill DDR4 Ram
 * NO GPU
