@@ -1,4 +1,7 @@
 # BigSur 11.1 OpenCore 0.6.4
+
+Please see [latest releases](https://github.com/stakeout55/macOS-11.1-OpenCore-z390-IGPU/releases/latest) for the more recent release.
+
 This is my working EFI for Catalina 10.15.5 -- 11.1 BigSur running Opencore. Hardware consists of: 
 * Gigabyte z390 Gaming X
 * 16GB GSkill DDR4 Ram
